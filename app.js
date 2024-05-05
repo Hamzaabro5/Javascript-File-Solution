@@ -37,6 +37,7 @@
 
 
                                                           //  Chapter 2
+                                                          
 
 
 // // Question 1
@@ -124,8 +125,57 @@
 
 
 
-// Question 9
+
+                                                          //  Chapter 2
 
 
 
-// Question 9
+
+
+
+
+
+
+
+
+
+                                                          //  Chapter 3
+
+
+// // Question no 1
+
+// var age = 18
+// alert(`Im ${age} Years Old`)
+
+// // Question no 1
+
+
+
+
+
+// // Question no 3
+
+// var birthyear = 2006
+// const h2 = document.querySelector(`h2`)
+
+// h2.innerHTML = `My BirthYear is ${birthyear}`
+
+ // Question no 3
+
+
+
+
+
+//  // Question no 3
+
+// const h2 = document.querySelector(`h2`)
+// var name = prompt(`What is your name?`)
+// var product = prompt(`What product did you want??`)
+// var quantity = prompt(`How much ${product} did you want??`)
+
+// h2.innerHTML = `${name} ordered ${quantity} ${product}(s) on XYZ Clothing store`
+
+//  // Question no 3
+
+
+                                                          //  Chapter 3
