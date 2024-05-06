@@ -179,3 +179,77 @@
 
 
                                                           //  Chapter 3
+
+
+
+
+
+
+
+
+
+
+
+
+
+                                                          //  Chapter 5
+
+
+
+
+
+// // Question no 1
+
+// const h2 = document.querySelector(`h2`)
+// var value1 = +prompt(`Enter First Number?`)
+// var value2 = +prompt(`Enter Second Number?`)
+// var finalVal = value1 + value2
+
+// h2.innerHTML = `sum of ${value1} and ${value2} is ${finalVal}`
+
+// // Question no 1
+
+
+
+
+
+
+
+
+
+// // Question no 2
+
+// const h2 = document.querySelector(`h2`)
+// var value1 = +prompt(`Enter First Number?`)
+// var value2 = +prompt(`Enter Second Number?`)
+// var finalVal = value1 - value2
+
+// h2.innerHTML = `sum of ${value1} and ${value2} is ${finalVal}`
+
+// const h2 = document.querySelector(`h2`)
+// var value1 = +prompt(`Enter First Number?`)
+// var value2 = +prompt(`Enter Second Number?`)
+// var finalVal = value1 * value2
+
+// h2.innerHTML = `sum of ${value1} and ${value2} is ${finalVal}`
+
+// const h2 = document.querySelector(`h2`)
+// var value1 = +prompt(`Enter First Number?`)
+// var value2 = +prompt(`Enter Second Number?`)
+// var finalVal = value1 % value2
+
+// h2.innerHTML = `sum of ${value1} and ${value2} is ${finalVal}`
+
+// // Question no 2
+
+
+
+
+
+
+
+
+
+
+
+                                                          //  Chapter 5
