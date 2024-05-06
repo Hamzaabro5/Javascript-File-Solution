@@ -296,9 +296,11 @@ var total2 = pt2*qt2
 
 
 h2.innerHTML += `<ul>Price of item 1 is ${pt1}</ul>`
-h2.innerHTML = `<ul>Quantity of item 1 is ${qt1}</ul?`
-h2.innerHTML = `<ul>Price of item 2 is ${pt2}</ul?`
-h2.innerHTML = `<ul>Quantity of item 2 is ${qt2}</ul?`
+h2.innerHTML += `<ul>Quantity of item 1 is ${qt1}</ul>`
+h2.innerHTML += `<ul>Price of item 2 is ${pt2}</ul>`
+h2.innerHTML += `<ul>Quantity of item 2 is ${qt2}</ul>`
+h2.innerHTML += `<ul>Shipping Charges ${shippingCharge}</ul>`
+h2.innerHTML += `<ul>Total Cost  ${total1+total2+shippingCharge}</ul>`
 console.log(total1+total2+shippingCharge);
 
 // Question no 7
