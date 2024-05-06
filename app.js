@@ -246,10 +246,62 @@
 
 
 
+// // Question no 4
+
+// const h2 = document.querySelector(`h2`)
+// var ticketPrice = 600
+
+// var price = 600*5
+
+// console.log(price);
+// h2.innerHTML = `Total Cost of to buy 5 tickets to a movie is ${price}PKR.`
+
+// // Question no 4
 
 
 
 
+
+
+// Question no 5
+
+// const h2 = document.querySelector(`h2`)
+
+// for (let i = 1; i <= 10; i++) {
+//     console.log(i);
+//     h2.innerHTML += `<ul>12 x ${i} = ${12*i}</ul>`
+    
+// }
+
+
+// Question no 5
+
+
+
+
+
+
+// Question no 7
+
+const h2 = document.querySelector(`h2`)
+
+const pt1 = 650 
+const qt1 = 3 
+const pt2 = 100 
+const qt2 = 7 
+const shippingCharge = 100
+
+var total1 = pt1*qt1
+var total2 = pt2*qt2
+
+
+h2.innerHTML += `<ul>Price of item 1 is ${pt1}</ul>`
+h2.innerHTML = `<ul>Quantity of item 1 is ${qt1}</ul?`
+h2.innerHTML = `<ul>Price of item 2 is ${pt2}</ul?`
+h2.innerHTML = `<ul>Quantity of item 2 is ${qt2}</ul?`
+console.log(total1+total2+shippingCharge);
+
+// Question no 7
 
 
                                                           //  Chapter 5
